@@ -1,0 +1,5 @@
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\publish\nfa2dfa.exe
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\publish\nfa2dfa.dll
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\publish\nfa2dfa.deps.json
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\publish\nfa2dfa.runtimeconfig.json
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\publish\nfa2dfa.pdb

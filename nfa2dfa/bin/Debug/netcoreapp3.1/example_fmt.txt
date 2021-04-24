@@ -1,0 +1,11 @@
+let NFA M = (Q, T, d, q0, F)
+where
+	Q = {p, q, r}
+	T = {0, 1, $}
+	q0 = p
+	F = {r}
+and d is defined by
+	f(p,0)=p
+	f(p,1)={p,q}
+	f(q,0)=r
+	f(q,1)=r

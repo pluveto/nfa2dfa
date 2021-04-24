@@ -1,0 +1,13 @@
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\nfa2dfa.exe
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\nfa2dfa.deps.json
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\nfa2dfa.runtimeconfig.json
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\nfa2dfa.runtimeconfig.dev.json
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\nfa2dfa.dll
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\bin\Release\netcoreapp3.1\nfa2dfa.pdb
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\obj\Release\netcoreapp3.1\nfa2dfa.csprojAssemblyReference.cache
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\obj\Release\netcoreapp3.1\nfa2dfa.AssemblyInfoInputs.cache
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\obj\Release\netcoreapp3.1\nfa2dfa.AssemblyInfo.cs
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\obj\Release\netcoreapp3.1\nfa2dfa.csproj.CoreCompileInputs.cache
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\obj\Release\netcoreapp3.1\nfa2dfa.dll
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\obj\Release\netcoreapp3.1\nfa2dfa.pdb
+C:\doc\Projects\homework\nfa2dfa\nfa2dfa\obj\Release\netcoreapp3.1\nfa2dfa.genruntimeconfig.cache

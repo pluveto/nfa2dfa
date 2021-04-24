@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "nfa2dfa": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\doc\\Projects\\homework\\nfa2dfa\\nfa2dfa\\bin\\Debug\\netcoreapp3.1\\example.txt\""
+    }
+  }
+}
